@@ -7,3 +7,5 @@ Learning Objectives for Individual Work
 *Student repos
 *GitHub Classroom
 *Permissions
+*Exercises
+*Staging
