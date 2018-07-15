@@ -9,3 +9,4 @@ Learning Objectives for Individual Work
 *Permissions
 *Exercises
 *Staging
+*fix this
